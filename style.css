@@ -19,3 +19,12 @@
   float: left;
   border-radius: 25px;
 }
+
+#profile-info {
+  margin: 8px 0px 8px 0px;
+  padding: 16px;
+  flex: 70%;
+  background: black;
+  color: white;
+  border-radius: 25px;
+}
