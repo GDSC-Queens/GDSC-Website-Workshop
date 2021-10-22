@@ -7,7 +7,7 @@ body {
 #page-header {
   padding: 80px;
   text-align: center;
-  background: #1E1E1E;
+  background: #1e1e1e;
   color: white;
   border-radius: 25px;
 }
@@ -36,7 +36,7 @@ body {
   margin: 8px 0px 8px 0px;
   padding: 16px;
   flex: 70%;
-  background: #1E1E1E;
+  background: #1e1e1e;
   color: white;
   border-radius: 25px;
 }
@@ -45,15 +45,91 @@ body {
 #main-content {
   margin: 0px 0px 8px 0px;
   padding: 16px;
-  background: #1E1E1E;
+  background: #1e1e1e;
   border-radius: 25px;
   color: white;
 }
 
+/* Link Section */
 #links {
   margin: 0px 0px 8px 0px;
   padding: 16px;
-  background: #1E1E1E;
+  background: #1e1e1e;
   border-radius: 25px;
   color: white;
+}
+
+/* Social Media Icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 25px;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Facebook */
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+/* LinkedIn */
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+/* Youtube */
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+/* Pinterest */
+.fa-pinterest {
+  background: #cb2027;
+  color: white;
+}
+
+/* Snapchat */
+.fa-snapchat-ghost {
+  background: #fffc00;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+/* Reddit */
+.fa-reddit {
+  background: #ff5700;
+  color: white;
+}
+
+/* RSS */
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+
+/* Center Social Media Icons */
+.center {
+  text-align: center;
 }
