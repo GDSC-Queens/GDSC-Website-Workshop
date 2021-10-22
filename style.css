@@ -35,3 +35,12 @@
   color: white;
   border-radius: 25px;
 }
+
+/* Main Content */
+#main-content {
+  margin: 0px 0px 8px 0px;
+  padding: 16px;
+  background: black;
+  border-radius: 25px;
+  color: white;
+}
