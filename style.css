@@ -1,12 +1,13 @@
 body {
   font-family: "Sora", sans-serif;
+  background: #121212;
 }
 
 /* Page header */
 #page-header {
   padding: 80px;
   text-align: center;
-  background: black;
+  background: #1E1E1E;
   color: white;
   border-radius: 25px;
 }
@@ -35,7 +36,7 @@ body {
   margin: 8px 0px 8px 0px;
   padding: 16px;
   flex: 70%;
-  background: black;
+  background: #1E1E1E;
   color: white;
   border-radius: 25px;
 }
@@ -44,7 +45,7 @@ body {
 #main-content {
   margin: 0px 0px 8px 0px;
   padding: 16px;
-  background: black;
+  background: #1E1E1E;
   border-radius: 25px;
   color: white;
 }
@@ -52,7 +53,7 @@ body {
 #links {
   margin: 0px 0px 8px 0px;
   padding: 16px;
-  background: black;
+  background: #1E1E1E;
   border-radius: 25px;
   color: white;
 }
