@@ -12,6 +12,12 @@
   font-size: 40px;
 }
 
+/* Flexbox Container */
+.row {
+  display: flex;
+}
+
+/* Profile Picture */
 #profile-img {
   margin: 8px 8px 8px 0px;
   width: 300px;
@@ -20,6 +26,7 @@
   border-radius: 25px;
 }
 
+/* About Me Section */
 #profile-info {
   margin: 8px 0px 8px 0px;
   padding: 16px;
