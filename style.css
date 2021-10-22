@@ -1,3 +1,7 @@
+body {
+  font-family: "Sora", sans-serif;
+}
+
 /* Page header */
 #page-header {
   padding: 80px;
